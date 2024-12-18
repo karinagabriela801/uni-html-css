@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif; 
+    color: black;
+    background-color: white;
+    list-style-type: none;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+
+    }
+
+
+h1 {
+    color: #9a1281;
+}

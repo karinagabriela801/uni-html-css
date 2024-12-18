@@ -1,0 +1,59 @@
+body {
+  font-family: Arial;
+  background-color: #f4f4f4;
+  color: black;
+  list-style-type: none;
+}
+.navmenue {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logoPlaceholder {
+  width: 100px;
+  height: 100 px;
+  border-radius: 4px;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  border-radius: 4px;
+}
+
+.menue {
+  display: flex;
+  list-style: none;
+  flex-direction: column;
+}
+
+
+
+main{
+  max-width: 800px;
+  margin: 10px;
+  margin: auto;
+  align-content: center;
+  padding: 20px;
+  
+}
+.instructions {
+  border: 1px solid #8bc34a;
+  border-spacing: 10px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+
+
+h1 {
+  color: #9a1281;
+}
+
+ul {
+  list-style-type: none;
+}
+
+
