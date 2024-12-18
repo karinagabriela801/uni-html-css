@@ -1,0 +1,15 @@
+h1 {
+    background-color: orange; 
+    color: green; 
+}
+
+p {
+    color:blue;
+}
+a {
+    color:red;
+}
+p::before {
+    content: "Hinweis: ";
+}
+
