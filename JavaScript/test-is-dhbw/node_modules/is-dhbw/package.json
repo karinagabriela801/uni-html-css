@@ -1,0 +1,12 @@
+{
+  "name": "is-dhbw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Karina-Gabriela Pepene",
+  "license": "ISC",
+  "description": "Check if string equals 'dhbw'"
+}
